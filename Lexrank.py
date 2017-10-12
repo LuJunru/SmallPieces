@@ -3,7 +3,7 @@
 # @Time    : ***
 # @Author  : Lu Junru
 # @Site    : 
-# @File    : SpideronBaiduBaike.py
+# @File    : Lexrank.py
 # @Software: PyCharm
 
 #Project Design
