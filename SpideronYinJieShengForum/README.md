@@ -4,6 +4,6 @@
 
 # Usage
 1. Get dict-formed cookies according to the reference
-2. [Get links of all posts]()
+2. [Get links of all posts](https://github.com/LuJunru/SmallPieces-Python/blob/master/SpideronYinJieShengForum/GetURLs.py)
 3. [Scan links to get content, removing quotes in each reply]()
 4. [Extract Top 20 keywords by frequency and generate word cloud]()
