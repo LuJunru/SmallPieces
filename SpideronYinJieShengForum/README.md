@@ -7,3 +7,4 @@
 2. [Get links of all posts](https://github.com/LuJunru/SmallPieces-Python/blob/master/SpideronYinJieShengForum/GetURLs.py)
 3. [Scan links to get content, removing quotes in each reply](https://github.com/LuJunru/SmallPieces-Python/blob/master/SpideronYinJieShengForum/GetContents.py)
 4. [Export Data into a more acceptable CSV](https://github.com/LuJunru/SmallPieces-Python/blob/master/SpideronYinJieShengForum/GetCSV.py)
+5. [Using Baidu API to extract opinions from posts](https://github.com/LuJunru/SmallPieces-Python/blob/master/SpideronYinJieShengForum/GetOpinion.py)
